@@ -1,5 +1,5 @@
 # MagicalMusicalStaircase
-Using a Raspberry Pi, lasers, and photocells, any staircase can be turned into a musical staircase.
+Using Python, a Raspberry Pi, lasers, and photocells, any staircase can be turned into a musical staircase.
 When the photocell senses an abrupt change in light, the RPi plays a note specific to that step.
 The staircase is not sensitive to changes in ambient light as a expodential filter is used to find the threshold to play the note.
 
